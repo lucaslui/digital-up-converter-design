@@ -1,0 +1,36 @@
+library ieee;
+use ieee.std_logic_1164.all;
+
+entity testbench is 
+end testbench;
+
+architecture behavior of testbench is
+
+	component timing_controller
+	port( 
+			clk              : in    std_logic;
+			clk_enable       : in    std_logic;
+			reset            : in    std_logic;		  
+			enable_div0      : out   std_logic;
+			enable_div128    : out   std_logic;
+			enable_div2048   : out   std_logic
+		);
+	end component;
+	
+	signal clk : std_logic := '0';
+	constant half_period : time := 1 ns;
+	
+begin
+	
+	inst_DUC_FPGA_top_timing_controller : DUC_FPGA_top_timing_controller       
+    port map ( clk => clk,
+              reset => reset,
+              clk_enable => clk_enable,
+              enable_1_8_0 => enable_1_8_0,
+              enable_1_8_1 => enable_1_8_1,
+              enable_1_64_1 => enable_1_64_1
+              );
+
+	clk <= not clk after half_period;
+
+end;
