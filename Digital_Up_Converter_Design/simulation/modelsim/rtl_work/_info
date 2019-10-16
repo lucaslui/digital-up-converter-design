@@ -1,0 +1,90 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/Lucas-PC/Desktop/DUC_vhdl/simulation/modelsim
+Etestbench
+Z1 w1570740269
+Z2 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z3 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+R0
+Z4 8C:/Users/Lucas-PC/Desktop/DUC_vhdl/simulation/modelsim/testbench.vht
+Z5 FC:/Users/Lucas-PC/Desktop/DUC_vhdl/simulation/modelsim/testbench.vht
+l0
+L4
+Vmi5T=KoG0=V[2CJL5bgz;0
+!s100 3nj@4H50noTjN[4MaQL`G3
+Z6 OP;C;10.4a;61
+31
+Z7 !s110 1570740339
+!i10b 1
+Z8 !s108 1570740339.000000
+Z9 !s90 -reportprogress|300|-93|-work|work|C:/Users/Lucas-PC/Desktop/DUC_vhdl/simulation/modelsim/testbench.vht|
+Z10 !s107 C:/Users/Lucas-PC/Desktop/DUC_vhdl/simulation/modelsim/testbench.vht|
+!i113 1
+Z11 o-93 -work work -O0
+Z12 tExplicit 1
+Abehavior
+R2
+R3
+DEx4 work 9 testbench 0 22 mi5T=KoG0=V[2CJL5bgz;0
+l27
+L10
+V1J^cKFVcHd1GoVIThD^W;2
+!s100 TTFJna7gOERGZLAT`mKj72
+R6
+31
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Etiming_controller
+Z13 w1570733508
+Z14 DPx4 ieee 11 numeric_std 0 22 :ASDNFgHXf_ih3J@9F3Ze1
+R2
+R3
+R0
+Z15 8C:/Users/Lucas-PC/Desktop/DUC_vhdl/timing_controller.vhd
+Z16 FC:/Users/Lucas-PC/Desktop/DUC_vhdl/timing_controller.vhd
+l0
+L17
+VZEB:k6C1YYM?4dga@KYm?1
+!s100 5lWS:IaYa@gZlMz]MS8an0
+R6
+31
+R7
+!i10b 1
+R8
+Z17 !s90 -reportprogress|300|-93|-work|work|C:/Users/Lucas-PC/Desktop/DUC_vhdl/timing_controller.vhd|
+Z18 !s107 C:/Users/Lucas-PC/Desktop/DUC_vhdl/timing_controller.vhd|
+!i113 1
+R11
+R12
+Artl
+R14
+R2
+R3
+DEx4 work 17 timing_controller 0 22 ZEB:k6C1YYM?4dga@KYm?1
+l37
+L27
+VlCEEY<;b9zP?<m@UkgmWc2
+!s100 3MMgVlQ_F58Pik:0OoJ;_1
+R6
+31
+R7
+!i10b 1
+R8
+R17
+R18
+!i113 1
+R11
+R12

@@ -1,0 +1,14 @@
+
+package pack_general_setting is
+
+	-- Type Declaration (optional)
+
+	-- Subtype Declaration (optional)
+
+	-- Constant Declaration (optional)
+
+	-- Signal Declaration (optional)
+
+	-- Component Declaration (optional)
+
+end pack_general_setting;
