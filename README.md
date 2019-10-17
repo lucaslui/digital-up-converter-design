@@ -1,2 +1,15 @@
-# Projects_FPGA_VLSI_VHDL_Verilog
-Projetos/Pacotes de descrição de hardware digital para FPGA/VLSI utilizando VHDL e Verilog
+Projetos de descrição de hardware digital para FPGA/VLSI utilizando VHDL e Verilog
+-------------------------------------------------------------
+
+Objetivo:
+
+     Armazenar o código de alguns programas já feitos para evitar o retrabalho caso haja necessidade de refaze-los. 
+     
+Autor:
+-------------------------------------------------------------
+
+    nome: Lucas Lui Motta
+    email: lucasluimotta@gmail.com
+    github: github.com/lucaslui
+    linkedin: www.linkedin.com/in/lucas-lui-motta-eng/
+    facebook: www.facebook.com/lucas.lui.71
