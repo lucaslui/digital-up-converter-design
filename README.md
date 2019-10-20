@@ -1,4 +1,4 @@
-Projetos de descrição de hardware digital para FPGA/VLSI utilizando VHDL e Verilog
+Projetos de descrição de hardware digital para VLSI
 -------------------------------------------------------------
 
 Objetivo:
