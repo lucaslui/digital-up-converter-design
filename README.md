@@ -1,4 +1,4 @@
-Projetos de descrição de hardware digital para VLSI
+Projetos com descrição de hardware digital para VLSI (FPGA/ASIC)
 -------------------------------------------------------------
 
 Objetivo:
